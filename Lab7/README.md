@@ -1,1 +1,1 @@
-# pitts-online-GEOG676-fall2025
+# Natalie Pitts Lab 7
