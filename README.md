@@ -1,1 +1,1 @@
-# GEOG676-Fall25
+# pitts-online-GEOG676-fall2025
