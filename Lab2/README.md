@@ -10,3 +10,6 @@ part2 = [-1, 23, 483, 8573, -13847, -381569, 1652337, 718522177]
 part3 = [146, 875, 911, 83, 81, 439, 44, 5, 46, 76, 61, 68, 1, 14, 38, 26, 21] 
 
 isEven = num1 % 2 == 0
+
+![alt text](Lab2_screenshot.png)
+<img width="1914" height="1043" alt="Lab2_screenshot" src="https://github.com/user-attachments/assets/4fe98487-1027-489c-ab55-38d65c721127" />
